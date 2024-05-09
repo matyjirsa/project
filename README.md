@@ -1,5 +1,3 @@
-Ve Virtual Studio Code otevřeme stažený projekt.
-
 Spuštění BACKENDU ->
 pravým kliknutím myši na složku "backend" otevřeme "Integrated Terminal" a napíšeme do něj příkaz: npm run server
 
